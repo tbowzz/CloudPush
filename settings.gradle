@@ -1,0 +1,1 @@
+include ':mobile', ':server', ':testclient', ':test', ':shared'

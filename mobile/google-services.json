@@ -1,0 +1,59 @@
+{
+  "project_info": {
+    "project_number": "26532574304",
+    "firebase_url": "https://fir-cloudpush.firebaseio.com",
+    "project_id": "firebase-cloudpush",
+    "storage_bucket": "firebase-cloudpush.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:26532574304:android:9e3d62b156786090",
+        "android_client_info": {
+          "package_name": "com.ragnardev.cloudpush"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "26532574304-hqpaaont0ommfn084o38nt970gnc266c.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "26532574304-4005g31974lnqrk70oteok5ojpir879q.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "26532574304-oumg6v9ka1cud3f3rjqhcmsio9l4l9p1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ragnardev.cloudpush",
+            "certificate_hash": "6bc67a7f38ffe485192533ca2e9468341b706700"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxPTvYMzrQ9xypZNmYynN1n5_bZ0SlJRY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "26532574304-hqpaaont0ommfn084o38nt970gnc266c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

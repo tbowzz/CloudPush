@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.fasterxml.jackson.core:jackson-core:2.9.0.pr4'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.9.0.pr4'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.9.0.pr4'
+    compile project(':shared')
+    compile 'com.google.code.gson:gson:2.8.1'
+    compile 'com.google.gcm:gcm-server:1.0.0'
+}
+
+sourceCompatibility = "1.7"
+targetCompatibility = "1.7"
